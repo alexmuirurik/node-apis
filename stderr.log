@@ -1,0 +1,1647 @@
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:1
+import axios from './lib/axios.js';
+       ^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:25
+export {
+^^^^^^
+
+SyntaxError: Unexpected token export
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/alexpshu/nodevenv/api.alexmuiruri.com/10/lib/node_modules/axios/index.js:25
+export {
+^^^^^^
+
+SyntaxError: Unexpected token export
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:2:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+internal/modules/cjs/loader.js:905
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/alexpshu/api.alexmuiruri.com/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/alexpshu/api.alexmuiruri.com/index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/alexpshu/api.alexmuiruri.com/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+ReferenceError: path is not defined
+    at /home/alexpshu/api.alexmuiruri.com/index.js:35:30
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+ReferenceError: path is not defined
+    at /home/alexpshu/api.alexmuiruri.com/index.js:35:30
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+ReferenceError: path is not defined
+    at /home/alexpshu/api.alexmuiruri.com/index.js:35:30
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+ReferenceError: path is not defined
+    at /home/alexpshu/api.alexmuiruri.com/index.js:35:30
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+ReferenceError: path is not defined
+    at /home/alexpshu/api.alexmuiruri.com/index.js:35:30
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+ReferenceError: path is not defined
+    at /home/alexpshu/api.alexmuiruri.com/index.js:35:30
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+ReferenceError: path is not defined
+    at /home/alexpshu/api.alexmuiruri.com/index.js:35:30
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+ReferenceError: path is not defined
+    at /home/alexpshu/api.alexmuiruri.com/index.js:35:30
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+ReferenceError: path is not defined
+    at /home/alexpshu/api.alexmuiruri.com/index.js:35:30
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+ReferenceError: path is not defined
+    at /home/alexpshu/api.alexmuiruri.com/index.js:35:30
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+ReferenceError: path is not defined
+    at /home/alexpshu/api.alexmuiruri.com/index.js:35:30
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+ForbiddenError: Forbidden
+    at createHttpError (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/send/index.js:979:12)
+    at SendStream.error (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/send/index.js:270:31)
+    at SendStream.pipe (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/send/index.js:536:12)
+    at sendfile (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/response.js:1130:8)
+    at ServerResponse.sendFile (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/response.js:449:3)
+    at /home/alexpshu/api.alexmuiruri.com/index.js:35:21
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: ENOENT: no such file or directory, stat '/home/alexpshu/build/index.html'
+Error: ENOENT: no such file or directory, stat '/home/alexpshu/build/index.html'
+Error: ENOENT: no such file or directory, stat '/home/alexpshu/build/index.html'
+Error: ENOENT: no such file or directory, stat '/home/alexpshu/build/index.html'
+Error: ENOENT: no such file or directory, stat '/home/alexpshu/build/index.html'
+Error: ENOENT: no such file or directory, stat '/home/alexpshu/build/index.html'
+(node:2690370) UnhandledPromiseRejectionWarning: TypeError: req.json is not a function
+    at /home/alexpshu/api.alexmuiruri.com/controllers/CollaController.js:8:33
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2690370) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:2690370) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:2690370) UnhandledPromiseRejectionWarning: TypeError: req.json is not a function
+    at /home/alexpshu/api.alexmuiruri.com/controllers/CollaController.js:8:33
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(node:2690370) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:2690370) UnhandledPromiseRejectionWarning: Error: EEXIST: file already exists, uv_pipe_open
+    at new Socket (net.js:330:24)
+    at process.getStdin [as stdin] (internal/bootstrap/switches/is_main_thread.js:179:17)
+    at get (<anonymous>)
+    at getOwn (internal/bootstrap/loaders.js:156:5)
+    at NativeModule.syncExports (internal/bootstrap/loaders.js:268:31)
+    at ModuleWrap.<anonymous> (internal/bootstrap/loaders.js:248:22)
+    at NativeModule.getESMFacade (internal/bootstrap/loaders.js:253:17)
+    at NativeModule.compileForPublicLoader (internal/bootstrap/loaders.js:233:10)
+    at loadNativeModule (internal/modules/cjs/helpers.js:48:9)
+    at Function.Module._load (internal/modules/cjs/loader.js:772:15)
+(node:2690370) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+(node:2746081) UnhandledPromiseRejectionWarning: Error: EEXIST: file already exists, uv_pipe_open
+    at new Socket (net.js:330:24)
+    at process.getStdin [as stdin] (internal/bootstrap/switches/is_main_thread.js:179:17)
+    at get (<anonymous>)
+    at getOwn (internal/bootstrap/loaders.js:156:5)
+    at NativeModule.syncExports (internal/bootstrap/loaders.js:268:31)
+    at ModuleWrap.<anonymous> (internal/bootstrap/loaders.js:248:22)
+    at NativeModule.getESMFacade (internal/bootstrap/loaders.js:253:17)
+    at NativeModule.compileForPublicLoader (internal/bootstrap/loaders.js:233:10)
+    at loadNativeModule (internal/modules/cjs/helpers.js:48:9)
+    at Function.Module._load (internal/modules/cjs/loader.js:772:15)
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2746081) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:2746081) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:2746081) UnhandledPromiseRejectionWarning: TypeError: req.json is not a function
+    at /home/alexpshu/api.alexmuiruri.com/controllers/CollaController.js:8:33
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(node:2746081) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:2771336) UnhandledPromiseRejectionWarning: TypeError: req.json is not a function
+    at /home/alexpshu/api.alexmuiruri.com/controllers/CollaController.js:8:33
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:2771336) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:2771336) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+ReferenceError: axios is not defined
+    at getMondayData (/home/alexpshu/api.alexmuiruri.com/controllers/PmanaController.js:2:5)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+ReferenceError: axios is not defined
+    at getMondayData (/home/alexpshu/api.alexmuiruri.com/controllers/PmanaController.js:2:5)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/home/alexpshu/nodevenv/api.alexmuiruri.com/14/lib/node_modules/express/lib/router/layer.js:95:5)
+(node:1924979) UnhandledPromiseRejectionWarning: Error: EEXIST: file already exists, uv_pipe_open
+    at new Socket (net.js:330:24)
+    at process.getStdin [as stdin] (internal/bootstrap/switches/is_main_thread.js:179:17)
+    at get (<anonymous>)
+    at getOwn (internal/bootstrap/loaders.js:156:5)
+    at NativeModule.syncExports (internal/bootstrap/loaders.js:268:31)
+    at ModuleWrap.<anonymous> (internal/bootstrap/loaders.js:248:22)
+    at NativeModule.getESMFacade (internal/bootstrap/loaders.js:253:17)
+    at NativeModule.compileForPublicLoader (internal/bootstrap/loaders.js:233:10)
+    at loadNativeModule (internal/modules/cjs/helpers.js:48:9)
+    at Function.Module._load (internal/modules/cjs/loader.js:772:15)
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1924979) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:1924979) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:3137974) UnhandledPromiseRejectionWarning: TypeError: req.json is not a function
+    at /home/alexpshu/api.alexmuiruri.com/controllers/CollaController.js:8:33
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:3137974) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:3137974) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
