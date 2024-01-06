@@ -9,7 +9,7 @@ export const MakeAPIRequest = () => {
     const location = useLocation()
     
     useEffect(() => {
-        axios.post('/'+location.hash.replace('#', '')).then(res => setdata(res.data)).catch(err => setdata(err))
+        axios.post('/api/'+location.hash.replace('#', '')).then(res => setdata(res.data)).catch(err => setdata(err))
     }, [location.hash])
 
     if(data){
@@ -22,7 +22,7 @@ export const GetHomePosts = (props) => {
     const location = useLocation()
     
     useEffect(() => {
-        axios.post('/'+props.url).then(res => setdata(res.data)).catch(err => setdata(err))
+        axios.post('/api/'+props.url).then(res => setdata(res.data)).catch(err => setdata(err))
     }, [location.hash])
 
     if(data){

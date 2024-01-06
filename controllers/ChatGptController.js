@@ -1,5 +1,5 @@
 const OpenAI = require("openai")
-const openai = new OpenAI({apiKey: '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'});
+const openai = new OpenAI({apiKey: 'Your API KEY GOES HERE'});
 
 const TextGeneration = async (req, res) => {
     const completion = await openai.chat.completions.create({

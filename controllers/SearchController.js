@@ -15,9 +15,9 @@ const getAoacheData = (req, res) => {
 
 const getRedeneData = async (req, res) => {
     const client = redis.createClient({
-        password: 'rrE39ca5AIAq3rUJeoOUNXhJTAanz1RF',
+        password: 'Your API KEY GOES HERE',
         socket: {
-            host: 'redis-18180.c323.us-east-1-2.ec2.cloud.redislabs.com',
+            host: 'Your REDIS API HOST GOES HERE',
             port: 18180
         }
     })

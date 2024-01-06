@@ -82,7 +82,7 @@ const getZoomData = (req, res) => {
 
 const getDropboxData = (req, res) => {
     var Dropbox = require('dropbox').Dropbox;
-    var dbx = new Dropbox({ accessToken: 'sl.BrdW_DMdNLW0QZg5-ZMBbpjwDd0JIKscKN0FSDwFCfJnmhEgJmxShndqjUajEZfi5SGNv7LNlWFQk5z7SgUncIiDS1_HeR_VSaHjjD9H8FI01Our_YDwB98K6y3oW7GGQ_UG9t_EEwyr' });
+    var dbx = new Dropbox({ accessToken: 'Your API KEY GOES HERE' });
     dbx.filesListFolder({path: '/list_folder'})
     .then(function(response) { res.json(response)})
     .catch(function(error) { res.json(error) });
